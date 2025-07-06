@@ -1,0 +1,212 @@
+Sunday, 06 July 2025 03:12:15:742008 PM - ETL Job Started
+Sunday, 06 July 2025 03:12:15:742730 PM - Extract phase Started
+Sunday, 06 July 2025 03:12:56:836355 PM - ETL Job Started
+Sunday, 06 July 2025 03:12:56:836574 PM - Extract phase Started
+Sunday, 06 July 2025 03:13:48:145614 PM - ETL Job Started
+Sunday, 06 July 2025 03:13:48:145841 PM - Extract phase Started
+Sunday, 06 July 2025 03:16:50:628 PM - ETL Job Started
+Sunday, 06 July 2025 03:16:50:629 PM - Extract phase Started
+Sunday, 06 July 2025 03:16:50:780 PM - Extract phase Ended
+Sunday, 06 July 2025 03:16:50:780 PM - Transform phase Started
+Sunday, 06 July 2025 03:16:50:784 PM - Transform phase Ended
+Sunday, 06 July 2025 03:16:50:784 PM - Load phase Started
+Sunday, 06 July 2025 03:16:50:786 PM - Load phase Ended
+Sunday, 06 July 2025 03:16:50:786 PM - ETL Job Ended
+Sunday, 06 July 2025 03:20:42:227 PM - ETL Job Started
+Sunday, 06 July 2025 03:20:42:227 PM - Extract phase Started
+Sunday, 06 July 2025 03:20:42:258 PM - Extract phase Ended
+Sunday, 06 July 2025 03:20:42:258 PM - Transform phase Started
+Sunday, 06 July 2025 03:20:42:261 PM - Transform phase Ended
+Sunday, 06 July 2025 03:20:42:261 PM - Load phase Started
+Sunday, 06 July 2025 03:20:42:261 PM - Load phase Ended
+Sunday, 06 July 2025 03:20:42:261 PM - ETL Job Ended
+Sunday, 06 July 2025 03:21:09:829 PM - ETL Job Started
+Sunday, 06 July 2025 03:21:09:829 PM - Extract phase Started
+Sunday, 06 July 2025 03:21:09:858 PM - Extract phase Ended
+Sunday, 06 July 2025 03:21:09:858 PM - Transform phase Started
+Sunday, 06 July 2025 03:21:09:860 PM - Transform phase Ended
+Sunday, 06 July 2025 03:21:09:861 PM - Load phase Started
+Sunday, 06 July 2025 03:21:09:861 PM - Load phase Ended
+Sunday, 06 July 2025 03:21:09:861 PM - ETL Job Ended
+Sunday, 06 July 2025 03:21:51:814 PM - ETL Job Started
+Sunday, 06 July 2025 03:21:51:814 PM - Extract phase Started
+Sunday, 06 July 2025 03:21:51:846 PM - Extract phase Ended
+Sunday, 06 July 2025 03:21:51:846 PM - Transform phase Started
+Sunday, 06 July 2025 03:21:51:849 PM - Transform phase Ended
+Sunday, 06 July 2025 03:21:51:849 PM - Load phase Started
+Sunday, 06 July 2025 03:21:51:850 PM - Load phase Ended
+Sunday, 06 July 2025 03:21:51:850 PM - ETL Job Ended
+Sunday, 06 July 2025 03:22:02:540 PM - ETL Job Started
+Sunday, 06 July 2025 03:22:02:540 PM - Extract phase Started
+Sunday, 06 July 2025 03:22:02:559 PM - Extract phase Ended
+Sunday, 06 July 2025 03:22:02:559 PM - Transform phase Started
+Sunday, 06 July 2025 03:22:02:561 PM - Transform phase Ended
+Sunday, 06 July 2025 03:22:02:561 PM - Load phase Started
+Sunday, 06 July 2025 03:22:02:562 PM - Load phase Ended
+Sunday, 06 July 2025 03:22:02:562 PM - ETL Job Ended
+Sunday, 06 July 2025 03:22:35:585 PM - ETL Job Started
+Sunday, 06 July 2025 03:22:35:585 PM - Extract phase Started
+Sunday, 06 July 2025 03:22:35:604 PM - Extract phase Ended
+Sunday, 06 July 2025 03:22:35:604 PM - Transform phase Started
+Sunday, 06 July 2025 03:22:35:606 PM - Transform phase Ended
+Sunday, 06 July 2025 03:22:35:606 PM - Load phase Started
+Sunday, 06 July 2025 03:22:35:607 PM - Load phase Ended
+Sunday, 06 July 2025 03:22:35:607 PM - ETL Job Ended
+Sunday, 06 July 2025 03:22:35:607 PM - 
+
+Sunday, 06 July 2025 03:22:37:732 PM - ETL Job Started
+Sunday, 06 July 2025 03:22:37:732 PM - Extract phase Started
+Sunday, 06 July 2025 03:22:37:752 PM - Extract phase Ended
+Sunday, 06 July 2025 03:22:37:752 PM - Transform phase Started
+Sunday, 06 July 2025 03:22:37:754 PM - Transform phase Ended
+Sunday, 06 July 2025 03:22:37:754 PM - Load phase Started
+Sunday, 06 July 2025 03:22:37:755 PM - Load phase Ended
+Sunday, 06 July 2025 03:22:37:755 PM - ETL Job Ended
+Sunday, 06 July 2025 03:22:37:755 PM - 
+
+Sunday, 06 July 2025 03:22:58:224 PM - ETL Job Started
+Sunday, 06 July 2025 03:22:58:224 PM - Extract phase Started
+Sunday, 06 July 2025 03:22:58:241 PM - Extract phase Ended
+Sunday, 06 July 2025 03:22:58:241 PM - Transform phase Started
+Sunday, 06 July 2025 03:22:58:244 PM - Transform phase Ended
+Sunday, 06 July 2025 03:22:58:244 PM - Load phase Started
+Sunday, 06 July 2025 03:22:58:244 PM - Load phase Ended
+Sunday, 06 July 2025 03:22:58:244 PM - ETL Job Ended
+Sunday, 06 July 2025 03:22:58:244 PM - 
+
+Sunday, 06 July 2025 03:23:49:273 PM - ETL Job Started
+Sunday, 06 July 2025 03:23:49:273 PM - Extract phase Started
+Sunday, 06 July 2025 03:23:49:305 PM - Extract phase Ended
+Sunday, 06 July 2025 03:23:49:305 PM - Transform phase Started
+Sunday, 06 July 2025 03:23:49:307 PM - Transform phase Ended
+Sunday, 06 July 2025 03:23:49:307 PM - Load phase Started
+Sunday, 06 July 2025 03:23:49:308 PM - Load phase Ended
+Sunday, 06 July 2025 03:23:49:308 PM - ETL Job Ended
+Sunday, 06 July 2025 03:23:49:308 PM - 
+
+Sunday, 06 July 2025 03:23:59:667 PM - ETL Job Started
+Sunday, 06 July 2025 03:23:59:667 PM - Extract phase Started
+Sunday, 06 July 2025 03:23:59:686 PM - Extract phase Ended
+Sunday, 06 July 2025 03:23:59:686 PM - Transform phase Started
+Sunday, 06 July 2025 03:23:59:688 PM - Transform phase Ended
+Sunday, 06 July 2025 03:23:59:688 PM - Load phase Started
+Sunday, 06 July 2025 03:23:59:689 PM - Load phase Ended
+Sunday, 06 July 2025 03:23:59:689 PM - ETL Job Ended
+Sunday, 06 July 2025 03:23:59:689 PM - 
+
+Sunday, 06 July 2025 03:24:06:286 PM - ETL Job Started
+Sunday, 06 July 2025 03:24:06:286 PM - Extract phase Started
+Sunday, 06 July 2025 03:24:06:304 PM - Extract phase Ended
+Sunday, 06 July 2025 03:24:06:304 PM - Transform phase Started
+Sunday, 06 July 2025 03:24:06:306 PM - Transform phase Ended
+Sunday, 06 July 2025 03:24:06:306 PM - Load phase Started
+Sunday, 06 July 2025 03:24:06:306 PM - Load phase Ended
+Sunday, 06 July 2025 03:24:06:306 PM - ETL Job Ended
+Sunday, 06 July 2025 03:24:06:306 PM - 
+
+Sunday, 06 July 2025 03:24:24:024 PM - ETL Job Started
+Sunday, 06 July 2025 03:24:24:024 PM - Extract phase Started
+Sunday, 06 July 2025 03:24:24:057 PM - Extract phase Ended
+Sunday, 06 July 2025 03:24:24:057 PM - Transform phase Started
+Sunday, 06 July 2025 03:24:24:060 PM - Transform phase Ended
+Sunday, 06 July 2025 03:24:24:060 PM - Load phase Started
+Sunday, 06 July 2025 03:24:24:061 PM - Load phase Ended
+Sunday, 06 July 2025 03:24:24:061 PM - ETL Job Ended
+Sunday, 06 July 2025 03:24:35:187 PM - ETL Job Started
+Sunday, 06 July 2025 03:24:35:187 PM - Extract phase Started
+Sunday, 06 July 2025 03:24:35:203 PM - Extract phase Ended
+Sunday, 06 July 2025 03:24:35:204 PM - Transform phase Started
+Sunday, 06 July 2025 03:24:35:206 PM - Transform phase Ended
+Sunday, 06 July 2025 03:24:35:206 PM - Load phase Started
+Sunday, 06 July 2025 03:24:35:206 PM - Load phase Ended
+Sunday, 06 July 2025 03:24:35:206 PM - ETL Job Ended
+Sunday, 06 July 2025 03:27:25:203 PM - ETL Job Started
+
+Sunday, 06 July 2025 03:27:25:203 PM - Extract phase Started
+
+Sunday, 06 July 2025 03:27:25:235 PM - Extract phase Ended
+
+Sunday, 06 July 2025 03:27:25:235 PM - Transform phase Started
+
+Sunday, 06 July 2025 03:27:25:237 PM - Transform phase Ended
+
+Sunday, 06 July 2025 03:27:25:237 PM - Load phase Started
+
+Sunday, 06 July 2025 03:27:25:238 PM - Load phase Ended
+
+Sunday, 06 July 2025 03:27:25:238 PM - ETL Job Ended
+
+Sunday, 06 July 2025 03:28:20:521 PM - ETL Job Started
+
+Sunday, 06 July 2025 03:28:20:521 PM - Extract phase Started
+
+Sunday, 06 July 2025 03:28:20:554 PM - Extract phase Ended
+
+Sunday, 06 July 2025 03:28:20:554 PM - Transform phase Started
+
+Sunday, 06 July 2025 03:28:20:557 PM - Transform phase Ended
+
+Sunday, 06 July 2025 03:28:20:557 PM - Load phase Started
+
+Sunday, 06 July 2025 03:28:20:558 PM - Load phase Ended
+
+Sunday, 06 July 2025 03:28:20:558 PM - ETL Job Ended
+
+Sunday, 06 July 2025 03:28:32:954 PM - ETL Job Started
+
+Sunday, 06 July 2025 03:28:32:954 PM - Extract phase Started
+
+Sunday, 06 July 2025 03:28:32:973 PM - Extract phase Ended
+
+Sunday, 06 July 2025 03:28:32:973 PM - Transform phase Started
+
+Sunday, 06 July 2025 03:28:32:976 PM - Transform phase Ended
+
+Sunday, 06 July 2025 03:28:32:976 PM - Load phase Started
+
+Sunday, 06 July 2025 03:28:32:976 PM - Load phase Ended
+
+Sunday, 06 July 2025 03:28:32:976 PM - ETL Job Ended
+
+Sunday, 06 July 2025 03:28:41:259 PM - ETL Job Started
+
+Sunday, 06 July 2025 03:28:41:259 PM - Extract phase Started
+
+Sunday, 06 July 2025 03:28:41:276 PM - Extract phase Ended
+
+Sunday, 06 July 2025 03:28:41:276 PM - Transform phase Started
+
+Sunday, 06 July 2025 03:28:41:278 PM - Transform phase Ended
+
+Sunday, 06 July 2025 03:28:41:278 PM - Load phase Started
+
+Sunday, 06 July 2025 03:28:41:279 PM - Load phase Ended
+
+Sunday, 06 July 2025 03:28:41:279 PM - ETL Job Ended
+
+Sunday, 06 July 2025 03:28:52:060 PM - ETL Job Started
+Sunday, 06 July 2025 03:28:52:060 PM - Extract phase Started
+Sunday, 06 July 2025 03:28:52:077 PM - Extract phase Ended
+Sunday, 06 July 2025 03:28:52:077 PM - Transform phase Started
+Sunday, 06 July 2025 03:28:52:079 PM - Transform phase Ended
+Sunday, 06 July 2025 03:28:52:079 PM - Load phase Started
+Sunday, 06 July 2025 03:28:52:079 PM - Load phase Ended
+Sunday, 06 July 2025 03:28:52:079 PM - ETL Job Ended
+Sunday, 06 July 2025 03:29:02:567 PM - ETL Job Started
+Sunday, 06 July 2025 03:29:02:567 PM - Extract phase Started
+Sunday, 06 July 2025 03:29:02:588 PM - Extract phase Ended
+Sunday, 06 July 2025 03:29:02:588 PM - Transform phase Started
+Sunday, 06 July 2025 03:29:02:591 PM - Transform phase Ended
+Sunday, 06 July 2025 03:29:02:591 PM - Load phase Started
+Sunday, 06 July 2025 03:29:02:592 PM - Load phase Ended
+Sunday, 06 July 2025 03:29:02:592 PM - ETL Job Ended
+
+Sunday, 06 July 2025 03:29:06:741 PM - ETL Job Started
+Sunday, 06 July 2025 03:29:06:741 PM - Extract phase Started
+Sunday, 06 July 2025 03:29:06:758 PM - Extract phase Ended
+Sunday, 06 July 2025 03:29:06:758 PM - Transform phase Started
+Sunday, 06 July 2025 03:29:06:760 PM - Transform phase Ended
+Sunday, 06 July 2025 03:29:06:760 PM - Load phase Started
+Sunday, 06 July 2025 03:29:06:761 PM - Load phase Ended
+Sunday, 06 July 2025 03:29:06:761 PM - ETL Job Ended
+
