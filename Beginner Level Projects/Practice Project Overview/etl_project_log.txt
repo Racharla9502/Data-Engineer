@@ -1,0 +1,23 @@
+2025-Jul-06-21:44:15 : Preliminaries complete. Initiating ETL process
+2025-Jul-06-21:44:18 : Data extraction complete. Initiating Transformation process
+2025-Jul-06-21:44:18 : Data transformation complete. Initiating loading process
+2025-Jul-06-21:45:46 : Preliminaries complete. Initiating ETL process
+2025-Jul-06-21:45:47 : Data extraction complete. Initiating Transformation process
+2025-Jul-06-21:45:47 : Data transformation complete. Initiating loading process
+2025-Jul-06-21:46:00 : Preliminaries complete. Initiating ETL process
+2025-Jul-06-21:46:02 : Data extraction complete. Initiating Transformation process
+2025-Jul-06-21:46:02 : Data transformation complete. Initiating loading process
+2025-Jul-06-21:46:41 : Preliminaries complete. Initiating ETL process
+2025-Jul-06-21:46:42 : Data extraction complete. Initiating Transformation process
+2025-Jul-06-21:46:42 : Data transformation complete. Initiating loading process
+2025-Jul-06-21:46:42 : Data saved to CSV file
+2025-Jul-06-21:46:42 : SQL Connection initiated.
+2025-Jul-06-21:46:42 : Data loaded to Database as table. Running the query
+2025-Jul-06-21:46:42 : Process Complete.
+Sunday, 06 July 2025 09:48:45 PM - Preliminaries complete. Initiating ETL process.
+Sunday, 06 July 2025 09:48:46 PM - Data extraction complete. Initiating transformation process.
+Sunday, 06 July 2025 09:48:46 PM - Data transformation complete. Initiating loading process.
+Sunday, 06 July 2025 09:48:46 PM - Data saved to CSV file.
+Sunday, 06 July 2025 09:48:47 PM - SQL connection initiated.
+Sunday, 06 July 2025 09:48:47 PM - Data loaded to database table. Running query.
+Sunday, 06 July 2025 09:48:47 PM - ETL process complete.
