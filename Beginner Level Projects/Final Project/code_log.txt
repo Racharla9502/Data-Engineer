@@ -1,0 +1,32 @@
+Sunday, 06 July 2025 10:05:11 PM - ETL process started.
+Sunday, 06 July 2025 10:05:11 PM - Extracting data from web.
+Sunday, 06 July 2025 10:05:40 PM - ETL process started.
+Sunday, 06 July 2025 10:05:40 PM - Extracting data from web.
+Sunday, 06 July 2025 10:06:18 PM - ETL process started.
+Sunday, 06 July 2025 10:06:18 PM - Extracting data from web.
+Sunday, 06 July 2025 10:06:52 PM - ETL process started.
+Sunday, 06 July 2025 10:06:52 PM - Extracting data from web.
+Sunday, 06 July 2025 10:09:05 PM - ETL process started.
+
+Sunday, 06 July 2025 10:09:05 PM - Extracting data from web.
+
+Sunday, 06 July 2025 10:09:06 PM - Extraction complete.
+
+Sunday, 06 July 2025 10:09:06 PM - Transforming data using exchange rates.
+
+Sunday, 06 July 2025 10:09:07 PM - Transformation complete.
+
+Sunday, 06 July 2025 10:09:07 PM - Loading data to CSV.
+
+Sunday, 06 July 2025 10:09:07 PM - Data saved to CSV.
+
+Sunday, 06 July 2025 10:09:07 PM - Loading data to database.
+
+Sunday, 06 July 2025 10:09:07 PM - Data saved to database.
+
+Sunday, 06 July 2025 10:09:07 PM - Running SQL queries.
+
+Sunday, 06 July 2025 10:09:07 PM - Queries executed.
+
+Sunday, 06 July 2025 10:09:07 PM - ETL process completed successfully.
+
